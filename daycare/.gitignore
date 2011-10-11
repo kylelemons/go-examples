@@ -1,0 +1,11 @@
+*.o
+*.a
+*.[568vq]
+[568vq].out
+daycare
+_test
+_testmain.go
+test.out
+build.out
+*.sw[op]
+.nfs*
